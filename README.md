@@ -1,3 +1,3 @@
 # my-first-repo
 Mijn allereerste repository
-![selfie van mezelf] (Ruben-selfie.jpg)
+![selfie-van-mezelf] (Ruben-selfie.jpg)
